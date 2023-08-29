@@ -1,0 +1,24 @@
+﻿body {
+    font: "Trebuchet MS", Verdana, sans-serif;
+    background-color: lightyellow;
+    color: #696969;
+}
+
+h1 {
+    font: Georgia, serif;
+    border-bottom: 3px solid #cc9900;
+    color: #996600;
+}
+
+.errorLabel {
+    color: red;
+}
+
+.Message {
+    color: red;
+}
+
+.selectionLog {
+    color: red;
+    font-size: 32px;
+}
